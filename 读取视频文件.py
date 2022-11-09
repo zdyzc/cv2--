@@ -8,7 +8,7 @@ cv2.resizeWindow("video",640,480)
  
 #获取视频设备/从视频文件中读取视频帧
 
-cap =cv2.VideoCapture("D:\\cv2\\1.mp4")
+cap =cv2.VideoCapture("D:\cv2\out.mp4")
 
 while True:
     #从摄像头读视频帧
